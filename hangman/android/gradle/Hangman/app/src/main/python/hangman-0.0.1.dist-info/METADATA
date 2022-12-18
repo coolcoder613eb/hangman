@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: hangman
+Formal-Name: Hangman
+App-ID: com.example.hangman
+Version: 0.0.1
+Home-page: https://example.com/hangman
+Download-URL: https://example.com/hangman
+Author: coolcoder613
+Author-email: coolcoder613@outlook.com
+Summary: Hangman game
